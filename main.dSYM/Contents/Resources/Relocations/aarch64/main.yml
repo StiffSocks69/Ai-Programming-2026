@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/alexander/Documents/JTH3/AI_Engineering/lab_1_AI_Engineering/main'
+relocations:     []
+...
