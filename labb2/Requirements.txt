@@ -1,0 +1,6 @@
+python=3.10
+gymnasium	
+pygame		
+box2d		
+
+

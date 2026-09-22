@@ -1,0 +1,6 @@
+##### IF USING CONDA #####
+conda create --name RL_lab python=3.10
+conda activate RL_lab
+conda install -c conda-forge gymnasium
+conda install -c conda-forge pygame
+conda install -c conda-forge gym-box2d
